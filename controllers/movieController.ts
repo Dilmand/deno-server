@@ -1,4 +1,4 @@
-import { Context } from "https://deno.land/x/oak/mod.ts";
+import { Context } from "https://deno.land/x/oak@v9.0.0/mod.ts";
 import { movieService } from "../services/movieService.ts";
 
 const movieController = {
